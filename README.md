@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/Merlin-OS/MerlInstall/releases/download/v0.1.0/Merlinstall_0.1.0_x64-setup.exe"><b>⬇ Télécharger pour Windows</b></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/Merlin-OS/MerlInstall/releases/download/v0.1.0/Merlinstall_0.1.0_universal.dmg"><b>⬇ Télécharger pour Mac</b></a>
+  <a href="https://github.com/Merlin-OS/MerlInstall/releases/download/Merlinstall_Mac_0.1.0/Merlinstall_0.1.0_universal.dmg"><b>⬇ Télécharger pour Mac</b></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/Merlin-OS/MerlInstall/releases">Toutes les versions</a>
 </p>
@@ -51,7 +51,7 @@ Merlinstall utilise WinGet, le gestionnaire officiel de Microsoft, déjà prése
 
 ### Mac (macOS 11 ou plus récent, Intel et puce Apple)
 
-1. Téléchargez [`Merlinstall_0.1.0_universal.dmg`](https://github.com/Merlin-OS/MerlInstall/releases/download/v0.1.0/Merlinstall_0.1.0_universal.dmg), ouvrez-le et glissez **Merlinstall** dans **Applications**.
+1. Téléchargez [`Merlinstall_0.1.0_universal.dmg`](https://github.com/Merlin-OS/MerlInstall/releases/download/Merlinstall_Mac_0.1.0/Merlinstall_0.1.0_universal.dmg), ouvrez-le et glissez **Merlinstall** dans **Applications**.
 2. Au premier lancement, macOS bloque l'app, parce qu'elle n'est pas encore validée par Apple : ouvrez **Réglages Système › Confidentialité et sécurité**, descendez et cliquez sur **Ouvrir quand même**.
 
 Homebrew n'est pas nécessaire : sans lui, Merlinstall installe les applications lui-même. Les outils en ligne de commande (git, Node.js, Python…) demandent en revanche Homebrew, qui ne s'installe plus sur les Mac Intel.
